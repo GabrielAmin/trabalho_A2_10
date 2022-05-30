@@ -1,1 +1,2 @@
 biblioteca beautiful soup (transforma informações html em python)
+web scraper (simula sites para scraper)
